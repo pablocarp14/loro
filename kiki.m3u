@@ -36,5 +36,14 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1, tvg-name="Cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480" group-title="CINE",CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
+#EXTINF:-1, tvg-name="Canal 12 Trelew" tvg-logo="https://1.bp.blogspot.com/-XKGho7EnJnE/YVLYn2b6w7I/AAAAAAAAQ3s/QGQqphv0JVktx4hI8wC77Zo7g_3LWzbtgCLcBGAsYHQ/w125-h125/Canal%2B12%2BTrelew%2Ben%2Bvivo.png" group-title="CHUBUT",CANAL 12 TRELEW
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 6 Entre Rios tv" tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS",CANAL 6 ENTRE RIOS TV
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 26" tvg-logo="https://1.bp.blogspot.com/-jfJGL0B9ecw/YVIfbw4uiNI/AAAAAAAAQ10/NGp2C_OamJcfMr3fjpsGB_gZFozjHh5EACLcBGAsYHQ/w121-h121/Canal%2B26%2Ben%2Bvivo.png" group-title="NOTICIAS",CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
 
 
