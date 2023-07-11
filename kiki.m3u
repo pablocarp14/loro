@@ -2,3 +2,20 @@
 
 #EXTINF:-1, tvg-name="Tyc Sports" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
+#EXTINF:-1, tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/e8/28/e82864444d1966ec6bbfc08876181a75.jpg" group-title="BUENOS AIRES",CANAL 9
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/10b8aa67-80a2-4e4d-93f1-fd707e81ab6e/2.m3u8
+
+#EXTINF:-1, tvg-name="C5n" tvg-logo="https://1.bp.blogspot.com/-Ims8RHgWe3g/Xp9TgXH0GUI/AAAAAAAAIho/mRS1ONy9K3cY7rjZKo0p6XIDDwTeedAbACLcBGAsYHQ/s1600/C5N.jpg" group-title="NOTICIAS",C5N
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43344
+
+#EXTINF:-1, tvg-name="Vclassics tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="MUSICA",VCLASSICS TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1101803278.m3u8
+
+#EXTINF:-1, tvg-name="Multivision" tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="SALTA",MULTIVISION
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+
+
