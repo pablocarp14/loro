@@ -18,4 +18,23 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1101803278.m3u8
 #EXTINF:-1, tvg-name="Multivision" tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="SALTA",MULTIVISION
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 
+#EXTINF:-1, tvg-name="America tv" tvg-logo="https://static-media.streema.com/media/cache/73/37/7337eeedfc42e88d29158b17c57e3741.jpg" group-title="BUENOS AIRES",AMERICA TV
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43320
+
+#EXTINF:-1, tvg-name="Xtrema retro cartoons" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg" group-title="INFANTILES",XTREMA RETRO CARTOONS
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Retro music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmbU_-0Y-2WFhjreupY5d-DVSJH6ZxDVIgj7p0dslXBZQoIpTe3DfUhHijpXJGdHlPVo&usqp=CAU" group-title="MUSICA",RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Directv sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES",DIRECTV SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+
+#EXTINF:-1, tvg-name="Cascara tv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200" group-title="CINE",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480" group-title="CINE",CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+
 
