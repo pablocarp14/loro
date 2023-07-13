@@ -76,7 +76,7 @@ https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 #EXTINF:-1, tvg-name="Canal 5 telesol" tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 5 TELESOL
-https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=373337
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1, tvg-name="El chavo del ocho" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES",EL CHAVO DEL OCHO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
