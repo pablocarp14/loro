@@ -81,5 +81,55 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1, tvg-name="El chavo del ocho" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES",EL CHAVO DEL OCHO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
+#EXTINF:-1, tvg-name="Canal 2 Sanagasta" tvg-logo="https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7.jpg" group-title="LA RIOJA",CANAL 2 SANAGASTA
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9 Televida" tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA",CANAL 9 TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Vorterix" tvg-logo="https://vorterixmardelplata.com.ar/wp-content/uploads/2021/07/vorterix.png" group-title="BUENOS AIRES",VORTERIX
+https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
+
+#EXTINF:-1, tvg-name="Cosmos tv" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1, tvg-name="Panc tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/panc-tv.png?itok=4dehCQ6o" group-title="TUCUMAN",PANC TV
+https://stream.trixserver.com:3088/live/uv096live.m3u8
+
+#EXTINF:-1, tvg-name="Zeronet tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/zeronet.jpg?itok=hWrT54aq" group-title="CINE",ZERONET TV
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Catamarca tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Lighthouse%20-%20copia%20%282%29_2.jpg?itok=Uu7mHPXS" group-title="CATAMARCA",CATAMARCA TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1467402445_b578000.m3u8
+
+#EXTINF:-1, tvg-name="Power hd" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/power.jpg?itok=0PHbBjqb" group-title="MUSICA",POWER HD
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w410998011.m3u8
+
+#EXTINF:-1, tvg-name="Argentinisima satelital" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/argentinisima.jpg?itok=IprL8IoV" group-title="MUSICA",ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1, tvg-name="Music top" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/musictop.jpg?itok=AvXs7E2P" group-title="MUSICA"MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1539994668_b364000_sleng.m3u8
+
+#EXTINF:-1, tvg-name="Telemax" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telemax.png?itok=pi_PDUGT" group-title="DOCUMENTALES",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w2063269865_b1828000_sleng.m3u8
+
+#EXTINF:-1, tvg-name="Unrio tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ip_2.png?itok=i5687-zc" group="BUENOS AIRES",UNRIO TV
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9 Rio Cuarto" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/riocuarto.png?itok=EA6Bv3_k" group-title="CORDOBA",CANAL 9 RIO CUARTO
+https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
+
+#EXTINF:-1, tvg-name="Canal coop" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/descarga.png?itok=08qyXvNP" group-title="CORDOBA",CANAL COOP
+https://panel.dattalive.com/8138/8138/chunklist_w1241900941.m3u8
+
+#EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
+https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
+
+#EXTINF:-1, tvg-name="Gen tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gentv.jpg?itok=3dyH0kRy" group-title="CINE",GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Ver tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ver-tv.jpg?itok=KGjQoQxB" group-title="BUENOS AIRES",VER TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
 
 
