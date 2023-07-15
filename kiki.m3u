@@ -105,9 +105,6 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_
 #EXTINF:-1, tvg-name="Power hd" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/power.jpg?itok=0PHbBjqb" group-title="MUSICA",POWER HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w410998011.m3u8
 
-#EXTINF:-1, tvg-name="Music top" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/musictop.jpg?itok=AvXs7E2P" group-title="MUSICA"MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1539994668_b364000_sleng.m3u8
-
 #EXTINF:-1, tvg-name="Telemax" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telemax.png?itok=pi_PDUGT" group-title="DOCUMENTALES",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w2063269865_b1828000_sleng.m3u8
 
