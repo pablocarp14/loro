@@ -108,7 +108,7 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w410998011.m
 #EXTINF:-1, tvg-name="Telemax" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telemax.png?itok=pi_PDUGT" group-title="DOCUMENTALES",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w2063269865_b1828000_sleng.m3u8
 
-#EXTINF:-1, tvg-name="Unrio tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ip_2.png?itok=i5687-zc" group="BUENOS AIRES",UNRIO TV
+#EXTINF:-1, tvg-name="Unrio tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ip_2.png?itok=i5687-zc" group-title="BUENOS AIRES",UNRIO TV
 https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Canal 9 Rio Cuarto" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/riocuarto.png?itok=EA6Bv3_k" group-title="CORDOBA",CANAL 9 RIO CUARTO
@@ -125,5 +125,107 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Ver tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ver-tv.jpg?itok=KGjQoQxB" group-title="BUENOS AIRES",VER TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
+
+#EXTINF:-1, tvg-name="Celta tv" tvg-logo="https://1.bp.blogspot.com/-4oM88OtMCME/YVLguX_ZC1I/AAAAAAAAQ48/YDYW9C0thvwiJQJMQXmEZdORcCq47mQuwCLcBGAsYHQ/w119-h116/CELTA%2BTV%2Ben%2Bvivo.png" group-title="BUENOS AIRES",CELTA TV
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+
+#EXTINF:-1, tvg-name="Canal 4 San Juan" tvg-logo="https://1.bp.blogspot.com/-_d7hq-rYEM0/YVSNXpxmM5I/AAAAAAAARBw/uzfgNVgUYokGxgvnwEWR2V4Z_c6RZLMlACLcBGAsYHQ/w147-h147/Canal%2B4%2Bde%2BSan%2BJuan%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 4 SAN JUAN
+https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w277040424.m3u8
+
+#EXTINF:-1, tvg-name="Canal 3 Las Flores" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Las-Flores-Digital-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="BUENOS AIRES",CANAL 3 LAS FLORES
+https://inliveserver.com:1936/8436/8436/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Zonda tv" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="SAN JUAN",ZONDA TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Tvmaxcba" tvg-logo="https://i2.paste.pics/fc58db19cb3b9fc13f1b2efb8f945912.png" grouptitle="CORDOBA",TVMAXCBA
+https://panel.dattalive.com:443/8976/8976/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Tele estrella" tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="BUENOS AIRES",TELE ESTRELLA
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cinco tv" tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="BUENOS AIRES",CINCO TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1, tvg-name="Solive" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="TUCUMAN",SOLIVE
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Milennio tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91755f051c2778068efc2728f71989d6.webp" group-title="CORDOBA",MILENNIO TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+
+#EXTINF:-1, tvg-name="Lapacho tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad302eb3d14a8a64f833a7f0afd08354.webp" group-title="FORMOSA",LAPACHO TV
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+
+#EXTINF:-1, tvg-name="Variedad tv" tvg-logo="http://www.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES",VARIEDAD TV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Eurodance 90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0W-1IeHACwgRfykSJqxezY8u3TDGNTRpQbQfY1KZBDXRXFlsdYOiQjObxjjrYQDL&usqp=CAU" group-title="MUSICA",EURODANCE 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1, tvg-name="Telpin tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5858054fefb39eecad5882b79d996f09.webp" group-title="BUENOS AIRES",TELPIN TV
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 4" tvg-logo="https://www.tvarghd.com/img/4jujuy.png" group-title="JUJUY",CANAL 4
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Ciudad tv" tvg-logo="https://www.ciudadtv.ar/wp-content/uploads/2023/04/Redes-Base-CiudadTV-05-222x82.png" group-title="CHACO",CIUDAD TV
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 3 Las heras" tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="SANTA CRUZ",CANAL 3 LAS HERAS
+https://stream.arcast.com.ar/canal3/canal3/chunklist_w1051537157.m3u8
+
+#EXTINF:-1, tvg-name="Canal 7 Bahia Blanca" tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2022/11/Logoweb_2023.png.webp" group-title="BUENOS AIRES",CANAL 7 BAHIA BLANCA
+https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
+
+#EXTINF:-1, tvg-name="Canal 4 Teleaire" tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="BUENOS AIRES",CANAL 4 TELEAIRE
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cinco Tigre tv" tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif" group-title="BUENOS AIRES",CINCO TIGRE TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1, tvg-name="Bragado tv" tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=28" group-title="BUENOS AIRES",BRAGADO TV
+https://inliveserver.com:1936/17044/17044/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 3 Pares tv" tvg-logo="http://parestv.com.ar/wp-content/uploads/2023/07/logofondonegro6.jpg" group-title="BUENOS AIRES",CANAL 3 PARES TV
+https://live-ak.vimeocdn.com/exp=1689554614~acl=%2F90a4440f-e4c6-4c84-8e0c-90ca5d4b628e%2F%2A~hmac=a1992c9c27319bf4f270a13d35950e0b85f66bd78e02b6069a04bb445f89368f/90a4440f-e4c6-4c84-8e0c-90ca5d4b628e/chunklist_b416000.m3u8?max_segments=10
+
+#EXTINF:-1, tvg-name="Las Flores digital" tvg-logo="https://i0.wp.com/lasfloresdigital.com.ar/wp-content/uploads/2020/10/toplogo.png?resize=1024%2C205&ssl=1" group-title="BUENOS AIRES",LAS FLORES DIGITAL
+https://inliveserver.com:1936/8436/8436/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Dsr medios" tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera-1024x193.png" group-title="BUENOS AIRES",DSR MEDIOS
+https://panel.dattalive.com/8114/8114/chunklist_w1580350163.m3u8
+
+#EXTINF:-1, tvg-name="Telejunin" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="BUENOS AIRES",TELEJUNIN
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
+#EXTINF:-1, tvg-name="Planeta tv music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PLANETA TV MUSIC
+https://tls-cl.cdnz.cl/music/live/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Espn" tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES",ESPN
+http://186.101.207.117:7654/play/a0bz/index.m3u8
+
+#EXTINF:-1, tvg-name="Dreiko tv" tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo-1024x707.png" group-title="INFANTILES",DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-1, tvg-name="Volver al futuro 3" tvg-logo="https://www.cinesargentinos.com.ar/poster/2900-volver-al-futuro-iii_168.jpg?1251129189" group-title="PELICULAS",VOLVER AL FUTURO
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1, tvg-name="Thor" tvg-logo="https://pics.filmaffinity.com/thor-223512549-mmed.jpg" group-title="PELICULAS"THOR
+https://archive.org/download/lso-32/43.mp4
+
+#EXTINF:-1, tvg-name="Pantera negra" tvg-logo="https://pics.filmaffinity.com/black_panther-992613805-mmed.jpg" group-title="PELICULAS",PANTERA NEGRA
+https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
+
+#EXTINF:-1, tvg-name="Ant man" tvg-logo="https://pics.filmaffinity.com/ant_man-627211491-mmed.jpg" group-title="PELICULAS",ANT MAN
+https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
+
+#EXTINF:-1, tvg-name="Adorable criatura" tvg-logo="https://pics.filmaffinity.com/problem_child-730746681-msmall.jpg" group-title="PELICULAS",ADORABLE CRIATURA
+https://archive.org/download/bicho1/bicho/bicho%201.mkv
+
+#EXTINF:-1, tvg-name="La venganza de los nerds" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds-171671359-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS
+https://archive.org/download/ner1_20200317/buho/ner1.mkv
+
+#EXTINF:-1, tvg-name="La venganza de los nerds 2" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds_ii_nerds_in_paradise-407325797-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS 2
+https://archive.org/download/ner1_20200317/buho/ned2.mkv
 
 
