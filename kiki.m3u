@@ -210,16 +210,13 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1, tvg-name="Volver al futuro 3" tvg-logo="https://www.cinesargentinos.com.ar/poster/2900-volver-al-futuro-iii_168.jpg?1251129189" group-title="PELICULAS",VOLVER AL FUTURO
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF:-1, tvg-name="Thor" tvg-logo="https://pics.filmaffinity.com/thor-223512549-mmed.jpg" group-title="PELICULAS"THOR
-https://archive.org/download/lso-32/43.mp4
-
 #EXTINF:-1, tvg-name="Pantera negra" tvg-logo="https://pics.filmaffinity.com/black_panther-992613805-mmed.jpg" group-title="PELICULAS",PANTERA NEGRA
 https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
 
 #EXTINF:-1, tvg-name="Ant man" tvg-logo="https://pics.filmaffinity.com/ant_man-627211491-mmed.jpg" group-title="PELICULAS",ANT MAN
 https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
 
-#EXTINF:-1, tvg-name="Adorable criatura" tvg-logo="https://pics.filmaffinity.com/problem_child-730746681-msmall.jpg" group-title="PELICULAS",ADORABLE CRIATURA
+#EXTINF:-1, tvg-name="Adorable criatura" tvg-logo=https://pics.filmaffinity.com/problem_child-730746681-msmall.jpg"" group-title="PELICULAS",ADORABLE CRIATURA
 https://archive.org/download/bicho1/bicho/bicho%201.mkv
 
 #EXTINF:-1, tvg-name="La venganza de los nerds" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds-171671359-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS
