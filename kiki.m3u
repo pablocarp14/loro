@@ -138,7 +138,7 @@ https://inliveserver.com:1936/8436/8436/playlist.m3u8
 #EXTINF:-1, tvg-name="Zonda tv" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="SAN JUAN",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Tvmaxcba" tvg-logo="https://i2.paste.pics/fc58db19cb3b9fc13f1b2efb8f945912.png" grouptitle="CORDOBA",TVMAXCBA
+#EXTINF:-1, tvg-name="Tvmaxcba" tvg-logo="https://i2.paste.pics/fc58db19cb3b9fc13f1b2efb8f945912.png" group-title="CORDOBA",TVMAXCBA
 https://panel.dattalive.com:443/8976/8976/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Tele estrella" tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="BUENOS AIRES",TELE ESTRELLA
