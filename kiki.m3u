@@ -225,4 +225,69 @@ https://archive.org/download/ner1_20200317/buho/ner1.mkv
 #EXTINF:-1, tvg-name="La venganza de los nerds 2" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds_ii_nerds_in_paradise-407325797-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS 2
 https://archive.org/download/ner1_20200317/buho/ned2.mkv
 
+#EXTINF:-1, tvg-name="Retro plus tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA",RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Ciudad magica" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="CORDOBA",CIUDAD MAGICA
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+
+#EXTINF:-1, tvg-name="Retro plus señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA",RETRO PLUS SEÑAL 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Retro plus señal 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE",RETRO PLUS SEÑAL 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Maxima tv" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png" group-title="CORRIENTES",MAXIMA TV
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+
+#EXTINF:-1, tvg-name="Play tv" tvg-logo="https://lh3.googleusercontent.com/-Xz3nAl2_28I/X_HzxCzqnwI/AAAAAAAA82Y/8xZ9Zu243YUdfYEGkUkiO2HF-PP-CDKawCK8BGAsYHg/s0/2021-01-03.jpg" group-title="SANTA FE",PLAY TV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+#EXTINF:-1, tvg-name="Sicardi tv" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png" group-title="BUENOS AIRES",SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1, tvg-name="Spectrum tv" tvg-logo="https://i2.paste.pics/e3cde58abf314e0e6b17b595c357936a.png" group-title="CHILE",SPECTRUM TV
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+
+#EXTINF:-1, tvg-name="Radio Valle Viejo" tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="CATAMARCA",RADIO VALLE VIEJO
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Discovery kids" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="INFANTILES",DISCOVERY KIDS
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302625
+
+#EXTINF:-1, tvg-name="Discovery theater" tvg-logo="https://img.tvcl.xyz/culturales/theater.png" group-title="DOCUMENTALES",DISCOVERY THEATER
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302626
+
+#EXTINF:-1, tvg-name="Discovery channel" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302627
+
+#EXTINF:-1, tvg-name="Discovery world" tvg-logo="https://img.tvcl.xyz/culturales/world.png" group-title="DOCUMENTALES",DISCOVERY WORLD
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302630
+
+#EXTINF:-1, tvg-name="Disney channel" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="INFANTILES",DISNEY CHANNEL
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302631
+
+#EXTINF:-1, tvg-name="De pelicula" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="CINE",DE PELICULA
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302635
+
+#EXTINF:-1, tvg-name="Star channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="CINE",STAR CHANNEL
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302645
+
+#EXTINF:-1, tvg-name="Canal 6 Mar del Plata" tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg" group-title="BUENOS AIRES",CANAL 6 MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Telefe deportes" tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="DEPORTES"TELEFE DEPORTES
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
+
+#EXTINF:-1, tvg-name="Telemix canal 50" tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="BUENOS AIRES",TELEMIX CANAL 50
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Real politik" tvg-logo="https://pbs.twimg.com/profile_images/1580945742138671107/jGi6et3P_400x400.png" group-title="BUENOS AIRES",REAL POLITIK
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1, tvg-name="Television 33" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/tv33.png" group-title="BUENOS AIRES",TELEVISION 33
+https://tuvideoonline.com.ar:3703/stream/play.m3u8
+
+
+
 
