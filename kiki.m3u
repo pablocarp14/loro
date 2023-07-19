@@ -291,6 +291,44 @@ https://stmv2.zcasthn.com.br/supertv/supertv/playlist.m3u8
 #EXTINF:-1, tvg-name="Orbit tv" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1, tvg-name="Xtrema suspenso" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoSUSPENSO2.jpg" group-title="CINE",XTREMA SUSPENSO
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg" group-title="CINE",XTREMA ACCION
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Free tv" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="CINE",FREE TV
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+
+#EXTINF:-1, tvg-name="Planeta tv movies" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/a49ae885facb1146cad8aadff09c4ca7.png?itok=i7HpnZYQ" group-title="CINE",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Golden plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="CINE",GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="CINE",TELECLASICA
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Pitufo tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230426T015718SQUARE.png_20230426015719.png" group-title="INFANTILES",PITUFO TV
+https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
+
+#EXTINF:-1, tvg-name="Magic kids" tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="INFANTILES",MAGIC KIDS
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+
+#EXTINF:-1, tvg-name="Retro magico" tvg-logo="https://www.coolstreaming.us/img/ch/image30769714713.jpg" group-title="INFANTILES",RETRO MAGICO
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1, tvg-name="Cartoon network" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTILES",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cartoonito" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="INFANTILES",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Tigueritos" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CINE",TIGUERITOS
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+
+
+
 
 
 
