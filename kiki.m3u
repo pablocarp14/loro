@@ -7,7 +7,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
 
 #EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/e8/28/e82864444d1966ec6bbfc08876181a75.jpg" group-title="BUENOS AIRES",CANAL 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/10b8aa67-80a2-4e4d-93f1-fd707e81ab6e/2.m3u8
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e5417009-b7da-4bb1-bb1a-2c6918a7e58d/3.m3u8
 
 #EXTINF:-1, tvg-name="C5n" tvg-logo="https://1.bp.blogspot.com/-Ims8RHgWe3g/Xp9TgXH0GUI/AAAAAAAAIho/mRS1ONy9K3cY7rjZKo0p6XIDDwTeedAbACLcBGAsYHQ/s1600/C5N.jpg" group-title="NOTICIAS",C5N
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43344
@@ -52,7 +52,7 @@ https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
 #EXTINF:-1, tvg-name="Tv publica" tvg-logo="https://1.bp.blogspot.com/-2efgTGS8buc/YVIYjtkYIgI/AAAAAAAAQ0c/acDpIwRpgWoVcaBHjSDZIeTeVXhJwy6SwCLcBGAsYHQ/w124-h124/Televisi%25C3%25B3n%2BP%25C3%25BAblica%2Ben%2Bvivo.png" group-title="BUENOS AIRES",TV PUBLICA
-https://ythls.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-1, tvg-name="Cronica tv" tvg-logo="https://1.bp.blogspot.com/-gASWgBRtiTQ/YVIbZnKzrGI/AAAAAAAAQ1M/ChQnWlUb8KUfYjO2KdpV2rXjr5tRB1_YgCLcBGAsYHQ/w154-h131/Cr%25C3%25B3nica%2BTelevisi%25C3%25B3n%2Ben%2Bvivo.jpg" group-title="NOTICIAS",CRONICA TV
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
@@ -326,6 +326,50 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Tigueritos" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="CINE",TIGUERITOS
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Sptv digital" tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="BUENOS AIRES",SPTV DIGITAL
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Memorias tv" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA",MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ"CANAL 9
+https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
+
+#EXTINF:-1, tvg-name="Millenium" tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA",MILLENIUM
+https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cadena vivo" tvg-logo="https://tvn.com.ar/wp-content/uploads/2022/10/VIVO_1-copia-300x217.png" group-title="TUCUMAN",CADENA VIVO
+https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
+
+#EXTINF:-1, tvg-name="La voz Tucuman" tvg-logo="https://envivo.lavozdetucuman.com/images/logo_fahrenheit.png" group-title="TUCUMAN",LA VOZ TUCUMAN
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal u" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA",CANAL U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN",CANAL 7
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="NEUQUEN",CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 13" tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA",CANAL 13
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Amor para todos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/amor-para-todos.jpg" group-title="MUSICA",AMOR PARA TODOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1, tvg-name="Runtime peliculas" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE",RUNTIME PELICULAS
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1, tvg-name="Super Kaos tv" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/super-kaos-tv.png" group-title="INFANTILES",SUPER KAOS TV
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Amordiscos tv" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA",AMORDISCOS TV
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+
+
 
 
 
