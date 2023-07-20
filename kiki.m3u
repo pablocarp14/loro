@@ -333,9 +333,6 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 #EXTINF:-1, tvg-name="Memorias tv" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA",MEMORIAS TV
 https://mediacp.us:8081/8002/index.m3u8
 
-#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1238122166685700096/9Ejo5bYX_400x400.jpg" group-title="SANTA CRUZ"CANAL 9
-https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
-
 #EXTINF:-1, tvg-name="Millenium" tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA",MILLENIUM
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 
