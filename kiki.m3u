@@ -366,6 +366,105 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1, tvg-name="Amordiscos tv" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA",AMORDISCOS TV
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 
+#EXTINF:-1, tvg-name="La momia" tvg-logo="https://pics.filmaffinity.com/the_mummy-114901456-msmall.jpg" group-title="PELICULAS",LA MOMIA
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253123.mkv
+
+#EXTINF:-1, tvg-name="La momia regresa" tvg-logo="https://pics.filmaffinity.com/the_mummy_returns-633071656-msmall.jpg" group-title="PELICULAS",LA MOMIA REGRESA
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253124.mkv
+
+#EXTINF:-1, tvg-name="La momia la tumba del emperador dragon" tvg-logo="https://pics.filmaffinity.com/the_mummy_tomb_of_the_dragon_emperor_the_mummy_3-448215110-msmall.jpg" group-title="PELICULAS",LA TUMBA DEL EMPERADOR DRAGON
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253125.mkv
+
+#EXTINF:-1, tvg-name="La mosca" tvg-logo="https://pics.filmaffinity.com/the_fly-142707827-msmall.jpg" group-title="PELICULAS",LA MOSCA
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253126.mkv
+
+#EXTINF:-1, tvg-name="La mosca 2" tvg-logo="https://pics.filmaffinity.com/the_fly_ii-514536878-mmed.jpg" group-title="PELICULAS",LA MOSCA 2
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253127.mkv
+
+#EXTINF:-1, tvg-name="El telefono negro" tvg-logo="https://pics.filmaffinity.com/the_black_phone-804220392-msmall.jpg" group-title="PELICULAS",EL TELEFONO NEGRO
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304612.mkv
+
+#EXTINF:-1, tvg-name="Vendetta" tvg-logo="https://pics.filmaffinity.com/il_mio_nome_e_vendetta-429898066-msmall.jpg" group-title="PELICULAS",VENDETTA
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304620.mkv
+
+#EXTINF:-1, tvg-name="Colision" tvg-logo="https://pics.filmaffinity.com/collision-424500653-msmall.jpg" group-title="PELICULAS",COLISION
+http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304634.mkv
+
+#EXTINF:-1, tvg-name="Gigolo por accidente" tvg-logo="https://pics.filmaffinity.com/deuce_bigalow_male_gigolo-231781712-msmall.jpg" group-title="PELICULAS",GIGOLO POR ACCIDENTE
+https://archive.org/download/236565000/2365_65001.mp4
+
+#EXTINF:-1, tvg-name="Gigolo por accidente en Europa" tvg-logo="https://pics.filmaffinity.com/deuce_bigalow_european_gigolo-171432552-msmall.jpg" group-title="PELICULAS",GIGOLO POR ACCIDENTE EN EUROPA
+https://archive.org/download/236565000/2365_65002.mp4
+
+#EXTINF:-1, tvg-name="Un principe en Nueva York" tvg-logo="https://pics.filmaffinity.com/coming_to_america-784691818-msmall.jpg" group-title="PELICULAS",UN PRINCIPE EN NUEVA YORK
+https://ia801402.us.archive.org/32/items/012551141477/012551_141477.mp4
+
+#EXTINF:-1, tvg-name="Zombieland 2:tiro de gracia" tvg-logo="https://pics.filmaffinity.com/zombieland_double_tap-674365283-msmall.jpg" group-title="PELICULAS",ZOMBIELAND 2:TIRO DE GRACIA
+https://archive.org/download/00200_20200117_0628/00200.mkv
+
+#EXTINF:-1, tvg-name="Comando" tvg-logo="https://pics.filmaffinity.com/commando-540096441-msmall.jpg" group-title="PELICULAS",COMANDO
+https://archive.org/download/comando_202004/Comando.avi
+
+#EXTINF:-1, tvg-name="El demoledor" tvg-logo="https://pics.filmaffinity.com/demolition_man-768903735-msmall.jpg" group-title="PELICULAS",EL DEMOLEDOR
+https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
+
+#EXTINF:-1, tvg-name="Energeek fan pop" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="INFANTILES",ENERGEEK FAN POP
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Acs network tv" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="CINE",ACS NETWORK TV
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+#EXTINF:-1, tvg-name="Canal 2 radio centro Ushuaia" tvg-logo="https://www.radiofmcentro.com/logo.svg" group-title="TIERRA DEL FUEGO",CANAL 2 RADIO CENTRO USHUAIA
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
+#EXTINF:-1, tvg-name="Canal blu HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU" group-title="SAN JUAN",CANAL BLU HD
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1, tvg-name="Canal del sur" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="SAN JUAN",CANAL DEL SUR
+https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Spacio tv" tvg-logo="https://static.wixstatic.com/media/b7b640_979e29e625374f56818318d29761e139~mv2.png/v1/fill/w_106,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20stv%202022%20png%20mosca.png" group-title="SALTA",SPACIO TV
+https://stream.arcast.live/spaciotv/ngrp:spaciotv_all/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 10 nortevision" tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="SALTA",CANAL 10 NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+
+#EXTINF:-1, tvg-name="Neox tv" tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA",NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:-1, tvg-name="Canal 10" tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO",CANAL 10
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 10 senillosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU" group-title="NEUQUEN",CANAL 10 SENILLOSA
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="MISIONES",CANAL 2
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1, tvg-name="Tierramia tv" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA",TIERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="canal choco tv" tvg-logo="https://1.bp.blogspot.com/-Y0EHX8oKseE/YVL5RaGb0bI/AAAAAAAAQ8U/rUdKCZ7LWncR1VTrQ8n1DIwD26R_ji8bQCLcBGAsYHQ/w147-h147/Choco%2BTV%2Ben%2Bvivo.jpg" group-title="CHACO",CANAL CHOCO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Horrorfy" tvg-logo="https://a.jsrdn.com/hls/23008/horrorfy/logo_20211119_205238_68.png" group-title="CINE",HORRORFY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=1f3017eb-e542-460b-b1b6-19df539da6ab&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1, tvg-name="Saber mas" tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/logo_20211119_205804_68.png" group-title="DOCUMENTALES",SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=1f3017eb-e542-460b-b1b6-19df539da6ab&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1, tvg-name="Flash HD" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="MUSICA",FLASH HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=1f3017eb-e542-460b-b1b6-19df539da6ab&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1, tvg-name="VH1" tvg-logo="https://canales.online/img/logo_canal/VH1.png" group-title="MUSICA",VH1
+https://content-asae1-up-2.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=2b5cf4f0f8f6458b945ba58d8a808cee
+
+#EXTINF:-1, tvg-name="Trace latina" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2d5f62&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ftracelatina.png" group-title="MUSICA",TRACE LATINA
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/a715e38b-d3c2-40f8-ba28-920fcdd504d3/3.m3u8
+
+#EXTINF:-1, tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
 
 
 
