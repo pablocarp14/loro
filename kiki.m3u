@@ -7,16 +7,13 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
 
 #EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/e8/28/e82864444d1966ec6bbfc08876181a75.jpg" group-title="BUENOS AIRES",CANAL 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e5417009-b7da-4bb1-bb1a-2c6918a7e58d/3.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304 a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
 #EXTINF:-1, tvg-name="C5n" tvg-logo="https://1.bp.blogspot.com/-Ims8RHgWe3g/Xp9TgXH0GUI/AAAAAAAAIho/mRS1ONy9K3cY7rjZKo0p6XIDDwTeedAbACLcBGAsYHQ/s1600/C5N.jpg" group-title="NOTICIAS",C5N
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43344
 
 #EXTINF:-1, tvg-name="Vclassics tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="MUSICA",VCLASSICS TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1101803278.m3u8
-
-#EXTINF:-1, tvg-name="Multivision" tvg-logo="https://1.bp.blogspot.com/-7ck4C7CGj90/YVMFUJnsGxI/AAAAAAAAQ9k/bKqZRmv432EfbdAZv-3hWIFHZ00Pk9ZRwCLcBGAsYHQ/w120-h120/Canal%2B9%2BMultivisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="SALTA",MULTIVISION
-https://panel.dattalive.com/8250/8250/playlist.m3u8
 
 #EXTINF:-1, tvg-name="America tv" tvg-logo="https://static-media.streema.com/media/cache/73/37/7337eeedfc42e88d29158b17c57e3741.jpg" group-title="BUENOS AIRES",AMERICA TV
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43320
@@ -33,9 +30,6 @@ http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 #EXTINF:-1, tvg-name="Cascara tv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200" group-title="CINE",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480" group-title="CINE",CINERAMA
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Canal 12 Trelew" tvg-logo="https://1.bp.blogspot.com/-XKGho7EnJnE/YVLYn2b6w7I/AAAAAAAAQ3s/QGQqphv0JVktx4hI8wC77Zo7g_3LWzbtgCLcBGAsYHQ/w125-h125/Canal%2B12%2BTrelew%2Ben%2Bvivo.png" group-title="CHUBUT",CANAL 12 TRELEW
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
@@ -45,9 +39,6 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:-1, tvg-name="Canal 26" tvg-logo="https://1.bp.blogspot.com/-jfJGL0B9ecw/YVIfbw4uiNI/AAAAAAAAQ10/NGp2C_OamJcfMr3fjpsGB_gZFozjHh5EACLcBGAsYHQ/w121-h121/Canal%2B26%2Ben%2Bvivo.png" group-title="NOTICIAS",CANAL 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 34 San Juan" tvg-logo="https://1.bp.blogspot.com/-WZDHDbMaKu4/YVSOHAQi1mI/AAAAAAAARB4/YHKOQg-vTycrxTd5kU2RCOJS_F2qAaTwgCLcBGAsYHQ/w168-h168/Canal%2B34%2Bde%2BSan%2BJuan%2Ben%2Bvivo.png" group-title="SAN JUAN",CANAL 34 SAN JUAN
-https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8
-
 #EXTINF:-1, tvg-name="Pakapaka" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTILES",PAKAPAKA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
@@ -55,7 +46,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-1, tvg-name="Cronica tv" tvg-logo="https://1.bp.blogspot.com/-gASWgBRtiTQ/YVIbZnKzrGI/AAAAAAAAQ1M/ChQnWlUb8KUfYjO2KdpV2rXjr5tRB1_YgCLcBGAsYHQ/w154-h131/Cr%25C3%25B3nica%2BTelevisi%25C3%25B3n%2Ben%2Bvivo.jpg" group-title="NOTICIAS",CRONICA TV
-https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 #EXTINF:-1, tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="BUENOS AIRES",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -127,13 +118,10 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1, tvg-name="Canal 4 San Juan" tvg-logo="https://1.bp.blogspot.com/-_d7hq-rYEM0/YVSNXpxmM5I/AAAAAAAARBw/uzfgNVgUYokGxgvnwEWR2V4Z_c6RZLMlACLcBGAsYHQ/w147-h147/Canal%2B4%2Bde%2BSan%2BJuan%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 4 SAN JUAN
-https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w277040424.m3u8
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Zonda tv" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="SAN JUAN",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Tvmaxcba" tvg-logo="https://i2.paste.pics/fc58db19cb3b9fc13f1b2efb8f945912.png" group-title="CORDOBA",TVMAXCBA
-https://panel.dattalive.com:443/8976/8976/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Tele estrella" tvg-logo="https://lh3.googleusercontent.com/-3MwF1xYI9s0/X4MNUuARJ3I/AAAAAAAA6Vk/f8VICRuKxms6s7DbkOc08AA8ZYmFWulZQCK8BGAsYHg/s0/2020-10-11.png" group-title="BUENOS AIRES",TELE ESTRELLA
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
@@ -143,9 +131,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1, tvg-name="Solive" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="TUCUMAN",SOLIVE
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Milennio tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91755f051c2778068efc2728f71989d6.webp" group-title="CORDOBA",MILENNIO TV
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 
 #EXTINF:-1, tvg-name="Lapacho tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad302eb3d14a8a64f833a7f0afd08354.webp" group-title="FORMOSA",LAPACHO TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
@@ -165,9 +150,6 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1, tvg-name="Ciudad tv" tvg-logo="https://www.ciudadtv.ar/wp-content/uploads/2023/04/Redes-Base-CiudadTV-05-222x82.png" group-title="CHACO",CIUDAD TV
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 3 Las heras" tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="SANTA CRUZ",CANAL 3 LAS HERAS
-https://stream.arcast.com.ar/canal3/canal3/chunklist_w1051537157.m3u8
-
 #EXTINF:-1, tvg-name="Canal 7 Bahia Blanca" tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2022/11/Logoweb_2023.png.webp" group-title="BUENOS AIRES",CANAL 7 BAHIA BLANCA
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
@@ -179,9 +161,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1, tvg-name="Bragado tv" tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=28" group-title="BUENOS AIRES",BRAGADO TV
 https://inliveserver.com:1936/17044/17044/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Canal 3 Pares tv" tvg-logo="http://parestv.com.ar/wp-content/uploads/2023/07/logofondonegro6.jpg" group-title="BUENOS AIRES",CANAL 3 PARES TV
-https://live-ak.vimeocdn.com/exp=1689554614~acl=%2F90a4440f-e4c6-4c84-8e0c-90ca5d4b628e%2F%2A~hmac=a1992c9c27319bf4f270a13d35950e0b85f66bd78e02b6069a04bb445f89368f/90a4440f-e4c6-4c84-8e0c-90ca5d4b628e/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-1, tvg-name="Las Flores digital" tvg-logo="https://i0.wp.com/lasfloresdigital.com.ar/wp-content/uploads/2020/10/toplogo.png?resize=1024%2C205&ssl=1" group-title="BUENOS AIRES",LAS FLORES DIGITAL
 https://inliveserver.com:1936/8436/8436/playlist.m3u8
@@ -200,24 +179,6 @@ http://186.101.207.117:7654/play/a0bz/index.m3u8
 
 #EXTINF:-1, tvg-name="Dreiko tv" tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo-1024x707.png" group-title="INFANTILES",DREIKO TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:-1, tvg-name="Volver al futuro 3" tvg-logo="https://www.cinesargentinos.com.ar/poster/2900-volver-al-futuro-iii_168.jpg?1251129189" group-title="PELICULAS",VOLVER AL FUTURO
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
-#EXTINF:-1, tvg-name="Pantera negra" tvg-logo="https://pics.filmaffinity.com/black_panther-992613805-mmed.jpg" group-title="PELICULAS",PANTERA NEGRA
-https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
-
-#EXTINF:-1, tvg-name="Ant man" tvg-logo="https://pics.filmaffinity.com/ant_man-627211491-mmed.jpg" group-title="PELICULAS",ANT MAN
-https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
-
-#EXTINF:-1, tvg-name="Adorable criatura" tvg-logo=https://pics.filmaffinity.com/problem_child-730746681-msmall.jpg"" group-title="PELICULAS",ADORABLE CRIATURA
-https://archive.org/download/bicho1/bicho/bicho%201.mkv
-
-#EXTINF:-1, tvg-name="La venganza de los nerds" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds-171671359-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS
-https://archive.org/download/ner1_20200317/buho/ner1.mkv
-
-#EXTINF:-1, tvg-name="La venganza de los nerds 2" tvg-logo="https://pics.filmaffinity.com/revenge_of_the_nerds_ii_nerds_in_paradise-407325797-msmall.jpg" group-title="PELICULAS",LA VENGANZA DE LOS NERDS 2
-https://archive.org/download/ner1_20200317/buho/ned2.mkv
 
 #EXTINF:-1, tvg-name="Retro plus tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA",RETRO PLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -366,15 +327,6 @@ http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253123.mkv
 #EXTINF:-1, tvg-name="La momia regresa" tvg-logo="https://pics.filmaffinity.com/the_mummy_returns-633071656-msmall.jpg" group-title="PELICULAS",LA MOMIA REGRESA
 http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253124.mkv
 
-#EXTINF:-1, tvg-name="La momia la tumba del emperador dragon" tvg-logo="https://pics.filmaffinity.com/the_mummy_tomb_of_the_dragon_emperor_the_mummy_3-448215110-msmall.jpg" group-title="PELICULAS",LA TUMBA DEL EMPERADOR DRAGON
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253125.mkv
-
-#EXTINF:-1, tvg-name="La mosca" tvg-logo="https://pics.filmaffinity.com/the_fly-142707827-msmall.jpg" group-title="PELICULAS",LA MOSCA
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253126.mkv
-
-#EXTINF:-1, tvg-name="La mosca 2" tvg-logo="https://pics.filmaffinity.com/the_fly_ii-514536878-mmed.jpg" group-title="PELICULAS",LA MOSCA 2
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253127.mkv
-
 #EXTINF:-1, tvg-name="El telefono negro" tvg-logo="https://pics.filmaffinity.com/the_black_phone-804220392-msmall.jpg" group-title="PELICULAS",EL TELEFONO NEGRO
 http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304612.mkv
 
@@ -384,29 +336,8 @@ http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304620.mkv
 #EXTINF:-1, tvg-name="Colision" tvg-logo="https://pics.filmaffinity.com/collision-424500653-msmall.jpg" group-title="PELICULAS",COLISION
 http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304634.mkv
 
-#EXTINF:-1, tvg-name="Gigolo por accidente" tvg-logo="https://pics.filmaffinity.com/deuce_bigalow_male_gigolo-231781712-msmall.jpg" group-title="PELICULAS",GIGOLO POR ACCIDENTE
-https://archive.org/download/236565000/2365_65001.mp4
-
-#EXTINF:-1, tvg-name="Gigolo por accidente en Europa" tvg-logo="https://pics.filmaffinity.com/deuce_bigalow_european_gigolo-171432552-msmall.jpg" group-title="PELICULAS",GIGOLO POR ACCIDENTE EN EUROPA
-https://archive.org/download/236565000/2365_65002.mp4
-
-#EXTINF:-1, tvg-name="Un principe en Nueva York" tvg-logo="https://pics.filmaffinity.com/coming_to_america-784691818-msmall.jpg" group-title="PELICULAS",UN PRINCIPE EN NUEVA YORK
-https://ia801402.us.archive.org/32/items/012551141477/012551_141477.mp4
-
-#EXTINF:-1, tvg-name="Zombieland 2:tiro de gracia" tvg-logo="https://pics.filmaffinity.com/zombieland_double_tap-674365283-msmall.jpg" group-title="PELICULAS",ZOMBIELAND 2:TIRO DE GRACIA
-https://archive.org/download/00200_20200117_0628/00200.mkv
-
-#EXTINF:-1, tvg-name="Comando" tvg-logo="https://pics.filmaffinity.com/commando-540096441-msmall.jpg" group-title="PELICULAS",COMANDO
-https://archive.org/download/comando_202004/Comando.avi
-
-#EXTINF:-1, tvg-name="El demoledor" tvg-logo="https://pics.filmaffinity.com/demolition_man-768903735-msmall.jpg" group-title="PELICULAS",EL DEMOLEDOR
-https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
-
 #EXTINF:-1, tvg-name="Energeek fan pop" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="INFANTILES",ENERGEEK FAN POP
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Acs network tv" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="CINE",ACS NETWORK TV
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 #EXTINF:-1, tvg-name="Canal 2 radio centro Ushuaia" tvg-logo="https://www.radiofmcentro.com/logo.svg" group-title="TIERRA DEL FUEGO",CANAL 2 RADIO CENTRO USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
@@ -449,12 +380,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 
 #EXTINF:-1, tvg-name="Flash HD" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="MUSICA",FLASH HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=1f3017eb-e542-460b-b1b6-19df539da6ab&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
-
-#EXTINF:-1, tvg-name="VH1" tvg-logo="https://canales.online/img/logo_canal/VH1.png" group-title="MUSICA",VH1
-https://content-asae1-up-2.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/d.m3u8?pbs=2b5cf4f0f8f6458b945ba58d8a808cee
-
-#EXTINF:-1, tvg-name="Trace latina" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2d5f62&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Ftracelatina.png" group-title="MUSICA",TRACE LATINA
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/a715e38b-d3c2-40f8-ba28-920fcdd504d3/3.m3u8
 
 #EXTINF:-1, tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
