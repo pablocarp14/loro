@@ -384,6 +384,39 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playli
 #EXTINF:-1, tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
+#EXTINF:-1, tvg-name="AMC" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-world-brand-png-logo-9.png" group-title="CINE",AMC
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302605
+
+#EXTINF:-1, tvg-name="Las estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/150px-Las_Estrellas_logo_%282016%29.svg.png" group-title="MEXICO",LAS ESTRELLAS
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302641
+
+#EXTINF:-1, tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png?20180106212012" group-title="CINE",FX
+http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302655
+
+#EXTINF:-1, tvg-name="Espn premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/120px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN PREMIUM
+https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1, tvg-name="Tnt sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTES",TNT SPORTS
+https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1, tvg-name="Espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES",ESPN
+https://onpower.cdn.rcs.net.ar/mnp/espn/output.mpd
+
+#EXTINF:-1, tvg-name="Top latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="MUSICA",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Melodychannel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8686a630362f5b20fb1b670a9cfd8559.webp" group-title="MUSICA",MELODYCHANNEL
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
+
+#EXTINF:-1, tvg-name="The retro channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6720c003e5adc507e1cd29a6af87ec4a.webp" group-title="MUSICA",THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Rewind" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5fd8a227bfcef77d8cd2bc6f50bc2578.webp" group-title="MUSICA",REWIND
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal +" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b03ec39e2ed29147f06d3836242ee5.webp" group-title="MUSICA,CANAL +
+https://tvdatta.com:3451/stream/play.m3u8
+
 
 
 
