@@ -7,7 +7,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
 
 #EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/e8/28/e82864444d1966ec6bbfc08876181a75.jpg" group-title="BUENOS AIRES",CANAL 9
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304 a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/44a9b5d9-e74f-4225-a3d6-40521a2c0712/2.m3u8
 
 #EXTINF:-1, tvg-name="C5n" tvg-logo="https://1.bp.blogspot.com/-Ims8RHgWe3g/Xp9TgXH0GUI/AAAAAAAAIho/mRS1ONy9K3cY7rjZKo0p6XIDDwTeedAbACLcBGAsYHQ/s1600/C5N.jpg" group-title="NOTICIAS",C5N
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/43344
@@ -150,9 +150,6 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1, tvg-name="Ciudad tv" tvg-logo="https://www.ciudadtv.ar/wp-content/uploads/2023/04/Redes-Base-CiudadTV-05-222x82.png" group-title="CHACO",CIUDAD TV
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 7 Bahia Blanca" tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2022/11/Logoweb_2023.png.webp" group-title="BUENOS AIRES",CANAL 7 BAHIA BLANCA
-https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
-
 #EXTINF:-1, tvg-name="Canal 4 Teleaire" tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="BUENOS AIRES",CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
@@ -161,9 +158,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1, tvg-name="Bragado tv" tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=28" group-title="BUENOS AIRES",BRAGADO TV
 https://inliveserver.com:1936/17044/17044/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Las Flores digital" tvg-logo="https://i0.wp.com/lasfloresdigital.com.ar/wp-content/uploads/2020/10/toplogo.png?resize=1024%2C205&ssl=1" group-title="BUENOS AIRES",LAS FLORES DIGITAL
-https://inliveserver.com:1936/8436/8436/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Dsr medios" tvg-logo="http://dsrmedios.com.ar/diario/wp-content/uploads/2019/03/Banner-cabezera-1024x193.png" group-title="BUENOS AIRES",DSR MEDIOS
 https://panel.dattalive.com/8114/8114/chunklist_w1580350163.m3u8
@@ -174,23 +168,11 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1, tvg-name="Planeta tv music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PLANETA TV MUSIC
 https://tls-cl.cdnz.cl/music/live/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Espn" tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES",ESPN
-http://186.101.207.117:7654/play/a0bz/index.m3u8
-
 #EXTINF:-1, tvg-name="Dreiko tv" tvg-logo="https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo-1024x707.png" group-title="INFANTILES",DREIKO TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1, tvg-name="Retro plus tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA",RETRO PLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Ciudad magica" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="CORDOBA",CIUDAD MAGICA
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-
-#EXTINF:-1, tvg-name="Retro plus señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MUSICA",RETRO PLUS SEÑAL 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Retro plus señal 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE",RETRO PLUS SEÑAL 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Maxima tv" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png" group-title="CORRIENTES",MAXIMA TV
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
@@ -269,9 +251,6 @@ https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1, tvg-name="Magic kids" tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="INFANTILES",MAGIC KIDS
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
-#EXTINF:-1, tvg-name="Retro magico" tvg-logo="https://www.coolstreaming.us/img/ch/image30769714713.jpg" group-title="INFANTILES",RETRO MAGICO
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1, tvg-name="Cartoon network" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTILES",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -360,9 +339,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1, tvg-name="Canal 10" tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="RIO NEGRO",CANAL 10
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 10 senillosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU" group-title="NEUQUEN",CANAL 10 SENILLOSA
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="MISIONES",CANAL 2
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
@@ -392,15 +368,6 @@ http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302641
 
 #EXTINF:-1, tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png?20180106212012" group-title="CINE",FX
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302655
-
-#EXTINF:-1, tvg-name="Espn premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/120px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN PREMIUM
-https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1, tvg-name="Tnt sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png" group-title="DEPORTES",TNT SPORTS
-https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-
-#EXTINF:-1, tvg-name="Espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ESPN.png" group-title="DEPORTES",ESPN
-https://onpower.cdn.rcs.net.ar/mnp/espn/output.mpd
 
 #EXTINF:-1, tvg-name="Top latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="MUSICA",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
