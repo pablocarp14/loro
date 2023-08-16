@@ -375,6 +375,42 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1, tvg-name="Acs network" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/acs-network.png?itok=F6_Rz60F" group-title="CINE",ACS NETWORK
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
+#EXTINF:-1, tvg-name="Canal 5 del pueblo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a569da0d143d9cea072749f2524d9b9.webp" group-title="SANTA FE",CANAL 5 DEL PUEBLO
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Señal urbana" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/senal-urbana-argentina.png" group-title="BUENOS AIRES",SEÑAL URBANA
+https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
+
+#EXTINF:-1, tvg-name="Mundo de la musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyEExO5vbkS3FensM57RduYRJKrpzg32WZOy4TpQRMw&s" group-title="MUSICA",MUNDO DE LA MUSICA
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Retro plus tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="MUSICA",RETRO PLUS TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Argentinisima satelital" tvg-logo="https://canales.online/img/argentinisima_satelital.png" group-title="DOCUMENTALES",ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1, tvg-name="Canal 6 Moreno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Moreno-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="BUENOS AIRES",CANAL 6 MORENO
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/89/cc/89ccb36e5b2607ba2eb26d80158be3dd.jpg" group-title="LA RIOJA",CANAL 9
+https://inliveserver.com:1936/17012/17012/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 9" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-1.png?resize=696%2C392&ssl=1" group-title="ENTRE RIOS",CANAL 9
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Power max" tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="MUSICA",POWER MAX
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1, tvg-name="Recuerdos retro radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aawkulyuju3q.png" group-title="MUSICA",RECUERDOS RETRO RADIO
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Retro plus señal 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2adc9ba45304258216fdecbbf9215a4f.webp" group-title="MUSICA",RETRO PLUS SEÑAL 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Retro plus señal 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE",RETRO PLUS SEÑAL 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+
 
 
 
