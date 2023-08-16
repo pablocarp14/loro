@@ -186,18 +186,6 @@ https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 #EXTINF:-1, tvg-name="Discovery kids" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="INFANTILES",DISCOVERY KIDS
 http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302625
 
-#EXTINF:-1, tvg-name="Discovery theater" tvg-logo="https://img.tvcl.xyz/culturales/theater.png" group-title="DOCUMENTALES",DISCOVERY THEATER
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302626
-
-#EXTINF:-1, tvg-name="Disney channel" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="INFANTILES",DISNEY CHANNEL
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302631
-
-#EXTINF:-1, tvg-name="De pelicula" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="CINE",DE PELICULA
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302635
-
-#EXTINF:-1, tvg-name="Star channel" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="CINE",STAR CHANNEL
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302645
-
 #EXTINF:-1, tvg-name="Canal 6 Mar del Plata" tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg" group-title="BUENOS AIRES",CANAL 6 MAR DEL PLATA
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
@@ -288,21 +276,6 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1, tvg-name="Amordiscos tv" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA",AMORDISCOS TV
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 
-#EXTINF:-1, tvg-name="La momia" tvg-logo="https://pics.filmaffinity.com/the_mummy-114901456-msmall.jpg" group-title="PELICULAS",LA MOMIA
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253123.mkv
-
-#EXTINF:-1, tvg-name="La momia regresa" tvg-logo="https://pics.filmaffinity.com/the_mummy_returns-633071656-msmall.jpg" group-title="PELICULAS",LA MOMIA REGRESA
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/253124.mkv
-
-#EXTINF:-1, tvg-name="El telefono negro" tvg-logo="https://pics.filmaffinity.com/the_black_phone-804220392-msmall.jpg" group-title="PELICULAS",EL TELEFONO NEGRO
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304612.mkv
-
-#EXTINF:-1, tvg-name="Vendetta" tvg-logo="https://pics.filmaffinity.com/il_mio_nome_e_vendetta-429898066-msmall.jpg" group-title="PELICULAS",VENDETTA
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304620.mkv
-
-#EXTINF:-1, tvg-name="Colision" tvg-logo="https://pics.filmaffinity.com/collision-424500653-msmall.jpg" group-title="PELICULAS",COLISION
-http://hplay.xyz:80/movie/zgyngtot/2n4h1uq4FS/304634.mkv
-
 #EXTINF:-1, tvg-name="Energeek fan pop" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="INFANTILES",ENERGEEK FAN POP
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
@@ -348,15 +321,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playli
 #EXTINF:-1, tvg-name="Extrema tv kids" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG-300x224.png" group-title="INFANTILES",EXTREMA TV KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 
-#EXTINF:-1, tvg-name="AMC" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-world-brand-png-logo-9.png" group-title="CINE",AMC
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302605
-
-#EXTINF:-1, tvg-name="Las estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/150px-Las_Estrellas_logo_%282016%29.svg.png" group-title="MEXICO",LAS ESTRELLAS
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302641
-
-#EXTINF:-1, tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png?20180106212012" group-title="CINE",FX
-http://hplay.xyz:80/zgyngtot/2n4h1uq4FS/302655
-
 #EXTINF:-1, tvg-name="Top latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="MUSICA",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
@@ -375,9 +339,6 @@ https://tvdatta.com:3451/stream/play.m3u8
 #EXTINF:-1, tvg-name="Somos" tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/somos-villa-maria-636x358.jpg" group-title="CORDOBA",SOMOS
 https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Latina tv" tvg-logo="https://www.5900.tv/wp-content/uploads/2023/06/latina-tv-636x358.jpg" group-title="MUSICA".LATINA TV
-https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Music top" tvg-logo="https://4.bp.blogspot.com/-AXtnXwiNaaY/WEM-u1ma6FI/AAAAAAAABQ0/_bQa41qkcUo3k2HfhnS6sXAIhLbGum0zACLcB/s320/MusicTop.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -393,9 +354,6 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1, tvg-name="Telenord" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/telenord.png?itok=7d_jY2UM" group-title="CORRIENTES",TELENORD
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Retrox tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retroxtv.jpg?itok=Helcr5qR" group-title="CINE",RETROX TV
-https://tgn.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8?nimblesessionid=51667266
-
 #EXTINF:-1, tvg-name="T5 satelital" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/T5.jpg?itok=v_DpwA2v" group-title="CORRIENTES",T5 SATELITAL
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 
@@ -405,26 +363,17 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w13793477.m3u8
 #EXTINF:-1, tvg-name="canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sanluis.jpg?itok=Uakqv3qz" group-title="SAN LUIS",CANAL 13
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60cb92f6f4420d0014ac6692_240p/index.m3u8
 
-#EXTINF:-1, tvg-name="Entre Rios tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/fm-2-copia_2.jpg?itok=775WmHcf" group-title="ENTRE RIOS",ENTRE RIOS TV
-https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Quatro tv" tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/03/quatro_logo-1-150x26.png" group-title="CORDOBA",QUATRO TV
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Canal 3 Argentina" tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="BUENOS AIRES",CANAL 3 ARGENTINA
 https://stmv1.cnarlatam.com/canal3argentina/canal3argentina/playlist.m3u8
 
-#XTINF:-1, tvg-name="Canal 10" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/WipeOut31_07_2021_103113.590000_1.jpg?itok=iAlMyj5e" group-title="NEUQUEN",CANAL 10
-https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
-
 #EXTINF:-1, tvg-name="Frecuencia musical tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/FMTV-1.png?itok=tsiX6AqJ" group-title="CINE",FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1, tvg-name="Acs network" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/acs-network.png?itok=F6_Rz60F" group-title="CINE",ACS NETWORK
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Hei musica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/heitv.jpg?itok=5O3B31ki" group-title="MUSICA",HEI MUSICA
-https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/playlist.m3u8?k=6a1868d408010bf210b438b7f1f7b8d472aba72a1ddaf447ef69e1162379764e&exp=1691890510
 
 
 
