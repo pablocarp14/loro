@@ -477,9 +477,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1, tvg-name="Malbec play tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/jddjd_9.jpg?itok=83hhs_jn" group-title="MUSICA",MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
-#EXTINF;-1, tvg-name="TN noticias" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS",TN NOTICIAS
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-
 #EXTINF:-1, tvg-name="Espn premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/120px-ESPN_Premium_logo.png" group-title="DEPORTES",ESPN PREMIUM
 https://onpower.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
