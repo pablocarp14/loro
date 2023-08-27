@@ -198,13 +198,13 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1, tvg-name="Xtrema suspenso" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoSUSPENSO2.jpg" group-title="CINE",XTREMA SUSPENSO
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Xtrema accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg" group-title="CINE",XTREMA ACCION
+#EXTINF:-1, tvg-name="Xtrema tv accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoACCION2.jpg" group-title="CINE",XTREMA TV ACCION
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Free tv" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png" group-title="CINE",FREE TV
+#EXTINF:-1, tvg-name="Free tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5bbc183adbb1437da09767557bdf50c1.webp" group-title="CINE",FREE TV
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
-#EXTINF:-1, tvg-name="Planeta tv movies" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/a49ae885facb1146cad8aadff09c4ca7.png?itok=i7HpnZYQ" group-title="CINE",PLANETA TV MOVIES
+#EXTINF:-1, tvg-name="Planeta tv movie" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99912765d4b4234eab782b5beb81286d.webp" group-title="CINE",PLANETA TV MOVIE
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Golden plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="CINE",GOLDEN PLUS
@@ -485,6 +485,77 @@ https://onpower.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1, tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS",A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1, tvg-name="Mas FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/65826.v6.png" group-title="MUSICA",MAS FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1, tvg-name="Super clasiccs tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/debf2dc2d1bb9108ba44f8fd0e0f8d81.webp" group-title="MUSICA",SUPER CLASICCS TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Tvs retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="GUATEMALA",TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1, tvg-name="Tv cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="CINE",TV CINE
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1022415944.m3u8
+
+#EXTINF:-1, tvg-name="Todocine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="CINE",TODOCINE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:-1, tvg-name="Cinekids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="INFANTILES",CINEKIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+
+#EXTINF:-1, tvg-name="Tu cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4fb455111f2997567ec71d2d93e99625.webp" group-title="CINE",TU CINE
+https://tucineus-freetv.amagi.tv/TuCineUSx/master.m3u8
+
+#EXTINF:-1, tvg-name="Runtime clasicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/586386166b8d99d95d88a028fa229159.webp" group-title="CINE",RUNTIME CLASICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+
+#EXTINF:-1, tvg-name="Runtime accion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11891ee8913e61a918d8a4e559d4e082.webp" group-title="CINE",RUNTIME ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
+
+#EXTINF:-1, tvg-name="Grjngo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8733d77d3a29296b066646316f579c48.webp" group-title="CINE",GRJNGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema tv drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c9ffb33bd89b04d6c1fd9326ddcadd7.webp" group-title="CINE",XTREMA TV DRAMA
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema tv family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/553ae67ca541fdc09dd6f918351f04be.webp" group-title="CINE",XTREMA TV FAMILY
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema tv comedy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/241d1d48bf46902c3aa0b334a0791a8d.webp" group-title="CINE",XTREMA TV COMEDY
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Mega cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="CINE",MEGA CINE
+https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema tv cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/def4d6a960fc00da49db5898c4a41e48.webp" group-title="INFANTILES",XTREMA TV CARTOONS
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Kids tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.webp" group-title="INFANTILES",KIDS TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master.m3u8
+
+#EXTINF:-1, tvg-name="Xtrema tv animal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af4dd316afda72cb7c982a399289623.webp" group-title="DOCUMENTALES",XTREMA TV ANIMAL
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw=w240-h480" group-title="CINE",CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Dantv" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE",DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1, tvg-name="Moni tv" tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES",MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Energeek retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="CINE",ENERGEEK RETRO
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Aventuras tv" tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/aventuras-tv.png" group-title="DOCUMENTALES",AVENTURAS TV
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="CATAMARCA",CANAL 7
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+
+
 
 
 
