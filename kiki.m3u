@@ -642,19 +642,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1, tvg-name="Ciudad magica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400_5.jpg?itok=sDiKxzuU" group-title="CORDOBA",CIUDAD MAGICA
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 
-#EXTINF:-1, tvg-name="CNar deprtes" tvg-logo="https://i.imgur.com/07ki2df.png" 
-
-group-title="DEPORTES",CNAR DEPORTES
+#EXTINF:-1, tvg-name="CNar deprtes" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="DEPORTES",CNAR DEPORTES
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-
-#EXTINF:-1, tvg-name="CNar noticias" tvg-logo="https://i.imgur.com/yOk4bHZ.png" group-title="NOTICIAS",CNAR NOTICIAS
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 
 #EXTINF:-1, tvg-name="CPEtv.ar" tvg-logo="https://i.imgur.com/zFgbobO.png" group-title="LA PAMPA",CPETV.AR
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-
-#RXTINF:-1, tvg-name="Deportv" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="DEPORTES",DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1, tvg-name="El histonauta tv" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="DOCUMENTALES",EL HISTONAUTA TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
@@ -740,9 +732,7 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1, tvg-name="Tiv tv" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="CHACO",TIV TV
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Tv MaxCba" tvg-logo="https://i.imgur.com/v3nKtIV.png" 
-
-group-title="CORDOBA",TV MAXCBA
+#EXTINF:-1, tvg-name="Tv MaxCba" tvg-logo="https://i.imgur.com/v3nKtIV.png" group-title="CORDOBA",TV MAXCBA
 https://panel.dattalive.com/8976/8976/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Unirio tv" tvg-logo="https://i.imgur.com/RMlneSY.png" group-title="CORDOBA",UNIRIO TV
