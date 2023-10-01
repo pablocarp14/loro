@@ -57,9 +57,6 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1, tvg-name="El chavo del ocho" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES",EL CHAVO DEL OCHO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 2 Sanagasta" tvg-logo="https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7.jpg" group-title="LA RIOJA",CANAL 2 SANAGASTA
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Canal 9 Televida" tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA",CANAL 9 TELEVIDA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
@@ -89,9 +86,6 @@ https://panel.dattalive.com/8138/8138/chunklist_w1241900941.m3u8
 
 #EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
 https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
-
-#EXTINF:-1, tvg-name="Gen tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gentv.jpg?itok=3dyH0kRy" group-title="CINE",GEN TV
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Ver tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ver-tv.jpg?itok=KGjQoQxB" group-title="BUENOS AIRES",VER TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
@@ -219,10 +213,7 @@ https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1, tvg-name="Millenium" tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA",MILLENIUM
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Cadena vivo" tvg-logo="https://tvn.com.ar/wp-content/uploads/2022/10/VIVO_1-copia-300x217.png" group-title="TUCUMAN",CADENA VIVO
-https://stmv1.cnarlatam.com/cadenavivo/cadenavivo/playlist.m3u8
-
-#EXTINF:-1, tvg-name="La voz Tucuman" tvg-logo="https://envivo.lavozdetucuman.com/images/logo_fahrenheit.png" group-title="TUCUMAN",LA VOZ TUCUMAN
+#EXTINF:-1, tvg-name="La voz Tucuman" tvg-logo="https://static-media.streema.com/media/cache/10/a0/10a0831ae28898c783c6a3bb5b452597.jpg" group-title="TUCUMAN",LA VOZ TUCUMAN
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Canal u" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA",CANAL U
@@ -244,13 +235,10 @@ https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Amordiscos tv" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA",AMORDISCOS TV
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1, tvg-name="Energeek fan pop" tvg-logo="https://i2.paste.pics/4b8fc07c5509133947987dc74a770eab.png" group-title="INFANTILES",ENERGEEK FAN POP
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Canal 2 radio centro Ushuaia" tvg-logo="https://www.radiofmcentro.com/logo.svg" group-title="TIERRA DEL FUEGO",CANAL 2 RADIO CENTRO USHUAIA
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
 #EXTINF:-1, tvg-name="Canal blu HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU" group-title="SAN JUAN",CANAL BLU HD
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
@@ -296,9 +284,6 @@ https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Music top" tvg-logo="https://4.bp.blogspot.com/-AXtnXwiNaaY/WEM-u1ma6FI/AAAAAAAABQ0/_bQa41qkcUo3k2HfhnS6sXAIhLbGum0zACLcB/s320/MusicTop.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1, tvg-name="Canal 12" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/descarga%20%281%29_1.jpg?itok=jqsyq4Rw" group-title="CHUBUT",CANAL 12
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Tdc" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/mjM0oiZg_400x400.jpg?itok=f5w-nG-a" group-title="BUENOS AIRES",TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
@@ -370,7 +355,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1, tvg-name="Telesistema" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/img_2_1692487244827.jpg?itok=yu1bmRsd" group-title="CINE",TELESISTEMA
-https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
+https://video20.klm99.com:3621/hybrid/play.m3u8
 
 #EXTINF:-1, tvg-name="Canal 2 Camilo Aldao" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ceosca.jpg?itok=3PvTb4BU" group-title="CORDOBA",CANAL 2 CAMILO ALDAO
 https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/chunklist_w477523646.m3u8
@@ -378,17 +363,14 @@ https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/chunklist_w477523646.m3u
 #EXTINF:-1, tvg-name="Fm retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-fm-ar.png?itok=1rm4O3Ma" group-title="MUSICA",FM RETRO
 https://videostream.shockmedia.com.ar:19360/retrofm/retrofm.m3u8
 
-#EXTINF:-1, tvg-name="Palomar tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/dHDHdOGP_400x400_0.jpg?itok=jra3LZ-9" group-title="TUCUMAN",PALOMAR TV
-https://stream.trixserver.com:3249/live/uv038live.m3u8
-
 #EXTINF:-1, tvg-name="Voice over" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Voiceover-radio-tv.png?itok=YwHZ3tjT" group-title="CINE",VOICE OVER
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 
 #EXTINF:-1, tvg-name="Clic tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/clic.jpg?itok=oERqz_cd" group-title="CINE",CLIC TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&amp;avod=1&amp;coppa=0&amp;is_lat=0
 
-#EXTINF:-1, tvg-name="Cinema" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cinema.jpg?itok=aNc4Zfaf" group-title="CINE",CINEMA
-https://stream.ads.ottera.tv/cl/230826cjkl540v7e92dl6qdevg/1280x720_3071200_0_f.m3u8?i=475_4829
+#EXTINF:-1, tvg-name="Tv classicos de Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="CINE",TV CLASSICO DE CINEMA
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Retrox tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retroxtv.jpg?itok=Helcr5qR" group-title="CINE",RETROX TV
 https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
@@ -414,9 +396,6 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1, tvg-name="Media pop" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/media-pop.jpg?itok=HRzTuPvW" group-title="CHILE",MEDIA POP
 https://v4.tustreaming.cl/poptv/index.m3u8
 
-#EXTINF:-1, tvg-name="Evavision" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8" group-title="CINE",EVAVISION
-https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8
-
 #EXTINF:-1, tvg-name="Tv y tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-y-tv.png?itok=yZownYgI" group-title="CINE",TV Y TV
 https://stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
@@ -427,16 +406,13 @@ https://tv.streaming-chile.com:1936/8140/8140/chunklist_w778516493.m3u8
 https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
 #EXTINF:-1, tvg-name="Telemusica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telemusica.jpg?itok=bKoJFIK5" group-title="MUSICA",TELEMUSICA
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=v5264sz1
+https://canal.mediaserver.com.co/live/telemusica.m3u8
 
 #EXTINF:-1, tvg-name="El ocho tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cJZ1Xthm_400x400.jpg?itok=_33yAgaP" group-title="TUCUMAN",EL OCHO TV
 https://stream-04.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5HHyPqDTegMd228eeztxF7btJxntf62iGpYqMUuThrd6)/dm/3/x8hvuj5/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1, tvg-name="Tv retro Palmares" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png?itok=KAlAqAcB" group-title="CINE",TV RETRO PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
-
-#EXTINF:-1, tvg-name="Next hd" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/nexthd.jpg?itok=rOGkmvx-" group-title="PARAGUAY",NEXT HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1, tvg-name="Malbec play tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/jddjd_9.jpg?itok=83hhs_jn" group-title="MUSICA",MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
@@ -576,8 +552,8 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1, tvg-name="Canal 5 Pico Truncado" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="SANTA CRUZ",CANAL 5 PICO TRUNCADO
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-7-chubut-ar.png" group-title="CHUBUT",CANAL 7
-https://ythls.onrender.com/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
+#EXTINF:-1, tvg-name="Canal 8 Tunuyan" tvg-logo="https://tvinsur.com/i/ar/canal-8-mendoza.webp" group-title="MENDOZA",CANAL 8 TUNUYAN
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 #EXTINF:-1, tvg-name="Canal 7" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="JUJUY",CANAL 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -641,9 +617,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1, tvg-name="Ciudad magica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400_5.jpg?itok=sDiKxzuU" group-title="CORDOBA",CIUDAD MAGICA
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-
-#EXTINF:-1, tvg-name="CNar deprtes" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="DEPORTES",CNAR DEPORTES
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 
 #EXTINF:-1, tvg-name="CPEtv.ar" tvg-logo="https://i.imgur.com/zFgbobO.png" group-title="LA PAMPA",CPETV.AR
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
@@ -750,6 +723,14 @@ https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1, tvg-name="Xtrema tv retro series" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="CINE",XTREMA TV RETRO SERIES
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
+#EXTINF:-1, tvg-name="Gen tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/gentv.jpg?itok=3dyH0kRy" group-title="CINE",GEN TV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Evavision" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8" group-title="CINE",EVAVISION
+https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Hei musica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/heitv.jpg?itok=5O3B31ki" group-title="MUSICA",HEI MUSICA
+https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/playlist.m3u8?k=5cc416aa42b65fb01fb61160d09e8698cce365e0b8f4321c99154c2bb66067fc&exp=1696125492
 
 
 
