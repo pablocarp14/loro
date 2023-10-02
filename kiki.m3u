@@ -363,9 +363,6 @@ https://stmvideo1.livecastv.com/canal2aldao/canal2aldao/chunklist_w477523646.m3u
 #EXTINF:-1, tvg-name="Fm retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-fm-ar.png?itok=1rm4O3Ma" group-title="MUSICA",FM RETRO
 https://videostream.shockmedia.com.ar:19360/retrofm/retrofm.m3u8
 
-#EXTINF:-1, tvg-name="Voice over" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Voiceover-radio-tv.png?itok=YwHZ3tjT" group-title="CINE",VOICE OVER
-https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
-
 #EXTINF:-1, tvg-name="Clic tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/clic.jpg?itok=oERqz_cd" group-title="CINE",CLIC TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&amp;avod=1&amp;coppa=0&amp;is_lat=0
 
@@ -413,9 +410,6 @@ https://stream-04.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5HHyPqDTegMd228eez
 
 #EXTINF:-1, tvg-name="Tv retro Palmares" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/RETRO-TV-PALMARES.png?itok=KAlAqAcB" group-title="CINE",TV RETRO PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
-
-#EXTINF:-1, tvg-name="Malbec play tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/jddjd_9.jpg?itok=83hhs_jn" group-title="MUSICA",MALBEC PLAY TV
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
 #EXTINF:-1, tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS",A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
@@ -666,9 +660,6 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1, tvg-name="Seo tv" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CINE",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1, tvg-name="Seo tv kids" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="INFANTILES",SEO TV KIDS
-https://live.seo.tv.bo/live/2SEO.m3u8
-
 #EXTINF:-1, tvg-name="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="CHUBUT",TELECINCO.AR
 https://videohd.live:19360/8016/8016.m3u8
 
@@ -729,8 +720,17 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1, tvg-name="Evavision" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/eva-retro.png?itok=Ke3QQrF8" group-title="CINE",EVAVISION
 https://stmv5.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
 
-#EXTINF:-1, tvg-name="Hei musica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/heitv.jpg?itok=5O3B31ki" group-title="MUSICA",HEI MUSICA
-https://rds3gen.desdeparaguay.net/heitv/heitv_int_alta/playlist.m3u8?k=5cc416aa42b65fb01fb61160d09e8698cce365e0b8f4321c99154c2bb66067fc&exp=1696125492
+#EXTINF:-1, tvg-name="Love nature" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89902ad1c93745ba04306321089fd39d.webp" group-title="DOCUMENTALES",LOVE NATURE
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-name="Estrellas de accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGlzwp3dPBO4upXJYyZHa0lg8OpqNjl8SHy8RiyvPww&s" group-title="CINE",ESTRELLAS DE ACCION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3cc214-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46c9fd1e-5125-4043-9ae1-e6b51f132664&userId=&serverSideAds=true
+
+#EXTINF:-1, tvg-name="Failarmy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWvwPr1nOxtFdz2l9loQ9qhPCSZs6kv23fFwCeoxRXw&s" group-title="DOCUMENTALES",FAILARMY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d1031-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=686eb0cb-39cb-47d5-a068-24f573ac1e8b&userId=&serverSideAds=true
+
+#EXTINF:-1, tvg-name="Historias de ultratumba" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCQSI8gGoIiLZbmgn2w7L_c5kt7FzhO8l9J6VaDti_-w&s" group-title="DOCUMENTALES",HISTORIAS DE ULTRATUMBA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dc3d3744-1f78-11ee-8064-731e08410b40&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17155e9-837f-45b5-9910-9f7f45a03530&userId=&serverSideAds=true
 
 
 
