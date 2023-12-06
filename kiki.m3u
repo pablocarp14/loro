@@ -45,7 +45,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-name="IP Noticias" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/opT3HgVh_400x400_0.jpg?itok=QnQHsL2N" group-title="NOTICIAS",IP NOTICIAS
 https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 
-#EXTINF:-1 tvg-name="La Nacion" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/ln.png?itok=_H4G6RPB" group-title="LA NACION",LA NACION 
+#EXTINF:-1 tvg-name="La Nacion" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/ln.png?itok=_H4G6RPB" group-title="NOTICIAS",LA NACION 
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-name="La poderosa" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="BUENOS AIRES",LA PODEROSA
@@ -60,7 +60,7 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 9 Televida" tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA",CANAL 9 TELEVIDA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://vorterixmardelplata.com.ar/wp-content/uploads/2021/07/vorterix.png" group-title="BUENOS AIRES",VORTERIX
+#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="BUENOS AIRES",VORTERIX
 https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
 
 #EXTINF:-1 tvg-name="Cosmos tv" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE",COSMOS TV
@@ -117,7 +117,7 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-name="Telpin tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5858054fefb39eecad5882b79d996f09.webp" group-title="BUENOS AIRES",TELPIN TV
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://www.tvarghd.com/img/4jujuy.png" group-title="JUJUY",CANAL 4
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://www.tvarghd.com/img/4jujuy.png" group-title="JUJUY",CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tnt sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORTS
@@ -219,13 +219,13 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal u" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-u.jpg?itok=okiiAwaW" group-title="CORDOBA",CANAL U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN",CANAL 7
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="NEUQUEN",CANAL 7 NEUQUEN
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="NEUQUEN",CANAL 9 PARANA
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="ENTRE RIOS",CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA",CANAL 13
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA",CANAL 13 LA RIOJA
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Runtime peliculas" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE",RUNTIME PELICULAS
@@ -255,7 +255,7 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-name="Neox tv" tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="MISIONES",CANAL 2
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="MISIONES",CANAL 2 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-name="Tierramia tv" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tierramia.jpg?itok=ngj-IpmR" group-title="MUSICA",TIERRAMIA TV
@@ -294,10 +294,10 @@ https://panel.dattalive.com/8250/8250/chunklist_w610102806.m3u8
 #EXTINF:-1 tvg-name="Telenord" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/telenord.png?itok=7d_jY2UM" group-title="CORRIENTES",TELENORD
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="canal 3" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/3-formosa.jpg?itok=ehy1cfTj" group-title="FORMOSA",CANAL 3
+#EXTINF:-1 tvg-name="canal 3" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/3-formosa.jpg?itok=ehy1cfTj" group-title="FORMOSA",CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w13793477.m3u8
 
-#EXTINF:-1 tvg-name="canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sanluis.jpg?itok=Uakqv3qz" group-title="SAN LUIS",CANAL 13
+#EXTINF:-1 tvg-name="canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sanluis.jpg?itok=Uakqv3qz" group-title="SAN LUIS",CANAL 13 SAN LUIS
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60cb92f6f4420d0014ac6692_240p/index.m3u8
 
 #EXTINF:-1 tvg-name="Quatro tv" tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/03/quatro_logo-1-150x26.png" group-title="CORDOBA",QUATRO TV
@@ -330,11 +330,8 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-name="Canal 6 Moreno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Moreno-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="BUENOS AIRES",CANAL 6 MORENO
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://static-media.streema.com/media/cache/89/cc/89ccb36e5b2607ba2eb26d80158be3dd.jpg" group-title="LA RIOJA",CANAL 9
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/9-la-rioja.jpg?itok=7HcQ5Zxf" group-title="LA RIOJA",CANAL 9
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-1.png?resize=696%2C392&ssl=1" group-title="ENTRE RIOS",CANAL 9
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Power max" tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="MUSICA",POWER MAX
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
@@ -375,7 +372,7 @@ https://tgn.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Gualeguay" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/logocanal2-x1.png?itok=kpKLt3pH" group-title="ENTRE RIOS",CANAL 2 GUALEGUAY
 https://stream.arcast.host:8443/gualeguay/gualeguay/chunklist_w667401937.m3u8
 
-#EXTINF:-1 tvg-name="Tves" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/-x-2Fhk6_400x400_0.jpg?itok=5-frL4Z6" group-title="SANTA FE",TVES
+#EXTINF:-1 tvg-name="Tves" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/-x-2Fhk6_400x400_0.jpg?itok=9UfCq6eU" group-title="SANTA FE",TVES
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 #EXTINF:-1 tvg-name="Canal 7 norte tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400_12.jpg?itok=VLs19GCg" group-title="TUCUMAN",CANAL 7 NORTE TV
@@ -398,9 +395,6 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/chunklist_w143419066.m3u8
 
 #EXTINF:-1 tvg-name="Terror tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/terror-tv.png?itok=zJEAmIlW" group-title="CINE",TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w778516493.m3u8
-
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/9Ejo5bYX_400x400.jpg?itok=v-geCGyJ" group-title="SANTA CRUZ",CANAL 9
-https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8
 
 #EXTINF:-1 tvg-name="Telemusica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telemusica.jpg?itok=bKoJFIK5" group-title="MUSICA",TELEMUSICA
 https://canal.mediaserver.com.co/live/telemusica.m3u8
@@ -516,13 +510,13 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Ushuaia" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="TIERRA DEL FUEGO",CANAL 2 USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="JUJUY",CANAL 2 
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal2-jujui.png?itok=SXSO1kv3" group-title="JUJUY",CANAL 2 JUJUY
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/auI6tstj_400x400.jpg?itok=gukKuxli" group-title="SALTA",CANAL 2
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/auI6tstj_400x400.jpg?itok=agtqaFpJ" group-title="SALTA",CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://lh3.googleusercontent.com/-PgoAknEdw-o/YGpET38G2kI/AAAAAAABBM0/Np1YAYu9-9InY18g7CY4aGMUyoe4f1LxQCK8BGAsYHg/s512/2021-04-04.png" group-title="LA PAMPA",CANAL 3
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/tvpp.jpg?itok=VWUMEWt4" group-title="LA PAMPA",CANAL 3 LA PAMPA
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 3 Las Heras" tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="SANTA CRUZ",CANAL 3 LAS HERAS
@@ -540,7 +534,7 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="MISIONES",CANAL 6 POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="TUCUMAN",CANAL 5
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="TUCUMAN",CANAL 5 TUCUMAN
 https://videohd.live:19360/8090/8090.m3u8
 
 #EXTINF:-1 tvg-name="Canal 5 Pico Truncado" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46.png?itok=0bHvpWFl" group-title="SANTA CRUZ",CANAL 5 PICO TRUNCADO
@@ -549,16 +543,16 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 8 Tunuyan" tvg-logo="https://tvinsur.com/i/ar/canal-8-mendoza.webp" group-title="MENDOZA",CANAL 8 TUNUYAN
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="JUJUY",CANAL 7
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="JUJUY",CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="SALTA",CANAL 7
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="SALTA",CANAL 7 SALTA
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="BUENOS AIRES",CANAL 8 MAR DEL PLATA
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN",CANAL 8
+#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj" group-title="SAN JUAN",CANAL 8 SAN JUAN
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 #EXTINF:-1 tvg-name="Canal 9 Litoral" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="ENTRE RIOS",CANAL 9 LITORAL
@@ -573,22 +567,22 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 10 Junin" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="BUENOS AIRES",CANAL 10 JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://i.imgur.com/zpJdUVC.png" group-title="RIO NEGRO",CANAL 10
+#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/XEPjlkpm_400x400_3.jpg?itok=FrgNADck" group-title="RIO NEGRO",CANAL 10 RIO NEGRO
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 11 de la costa" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="BUENOS AIRES",CANAL 11 DE LA COSTA
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-bSbxNgtv_2M/X4y7pC59aKI/AAAAAAAA6h8/opkxju3NzT4BiFnp2zXdnyaBfgOJ7LW-QCK8BGAsYHg/s0/2020-10-18.png" group-title="JUJUY",CANAL 13
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/gFvg-0Js_400x400.jpg?itok=t_xR4eU-" group-title="JUJUY",CANAL 13 JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://pbs.twimg.com/profile_images/1617246021/Captura_de_pantalla_2011-11-01_a_las_11.42.42_400x400.png" group-title="SAN JUAN",CANAL 13
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://pbs.twimg.com/profile_images/1617246021/Captura_de_pantalla_2011-11-01_a_las_11.42.42_400x400.png" group-title="SAN JUAN",CANAL 13 SAN JUAN
 https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 #EXTINF:-1 tvg-name="canal 40 Caucete" tvg-logo="https://i.imgur.com/xUiQvk8.png" group-title="SAN JUAN",CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 34" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="SAN JUAN",CANAL 34
+#EXTINF:-1 tvg-name="Canal 34" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="SAN JUAN",CANAL 34 SAN JUAN
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 21" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="MISIONES",CANAL 21
@@ -618,10 +612,10 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-name="El histonauta tv" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="DOCUMENTALES",EL HISTONAUTA TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-name="El once" tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="ENTRE RIOS",EL ONCE
+#EXTINF:-1 tvg-name="El once" tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="ENTRE RIOS",EL ONCE ENTRE RIOS
 https://ythls.onrender.com/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 
-#EXTINF:-1 tvg-name="El siete" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="MENDOZA",EL SIETE
+#EXTINF:-1 tvg-name="El siete" tvg-logo="https://i.imgur.com/yKb7nfP.png" group-title="MENDOZA",EL SIETE MENDOZA
 https://ythls.onrender.com/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 
 #EXTINF:-1 tvg-name="Encuentro" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="DOCUMENTALES",ENCUENTRO
