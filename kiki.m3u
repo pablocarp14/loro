@@ -42,14 +42,14 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="Neo tv digital" tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="BUENOS AIRES",NEO TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-name="IP Noticias" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/opT3HgVh_400x400_0.jpg?itok=QnQHsL2N" group-title="NOTICIAS",IP NOTICIAS
-https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
+#EXTINF:-1 tvg-name="ChileVisual retro" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cvretro.png?itok=ZOre0dXG" group-title="CINE",CHILEVISUAL RETRO
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 
 #EXTINF:-1 tvg-name="La Nacion" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/ln.png?itok=_H4G6RPB" group-title="NOTICIAS",LA NACION 
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-#EXTINF:-1 tvg-name="La poderosa" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="BUENOS AIRES",LA PODEROSA
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
+#EXTINF:-1 tvg-name="+Cine" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="CINE",+CINE
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w148712670.m3u8
 
 #EXTINF:-1 tvg-name="Canal 5 telesol" tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 5 TELESOL
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -75,14 +75,14 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_
 #EXTINF:-1 tvg-name="Power hd" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/power.jpg?itok=0PHbBjqb" group-title="MUSICA",POWER HD
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w410998011.m3u8
 
-#EXTINF:-1 tvg-name="Espn premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/150px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN PREMIUM
-https://panel.dattalive.com/8026/8026/playlist.m3u8
+#EXTINF:-1 tvg-name="ChileVisual film" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/cvrfilm.png?itok=dyZNgVZJ" group-title="CINE",CHILEVISUAL FILM
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 9 Rio Cuarto" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/riocuarto.png?itok=EA6Bv3_k" group-title="CORDOBA",CANAL 9 RIO CUARTO
 https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 
-#EXTINF:-1 tvg-name="Canal coop" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/descarga.png?itok=08qyXvNP" group-title="CORDOBA",CANAL COOP
-https://panel.dattalive.com/8138/8138/chunklist_w1241900941.m3u8
+#EXTINF:-1 tvg-name="Butaca tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/butaca-tv.jpg?itok=R8i0nM-0" group-title="CINE",BUTACA TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-64f0dad7c2bc9b9001d46ea8.m3u8?includeAllStreams=1&amp;X-Plex-Product=Plex+Mediaverse&amp;X-Plex-Token=qRDByN2M3e4XDxqvLeqs
 
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
 https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
