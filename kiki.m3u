@@ -93,8 +93,8 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
 #EXTINF:-1 tvg-name="Celta tv" tvg-logo="https://1.bp.blogspot.com/-4oM88OtMCME/YVLguX_ZC1I/AAAAAAAAQ48/YDYW9C0thvwiJQJMQXmEZdORcCq47mQuwCLcBGAsYHQ/w119-h116/CELTA%2BTV%2Ben%2Bvivo.png" group-title="BUENOS AIRES",CELTA TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-#EXTINF:-1 tvg-name="Canal 4 San Juan" tvg-logo="https://1.bp.blogspot.com/-_d7hq-rYEM0/YVSNXpxmM5I/AAAAAAAARBw/uzfgNVgUYokGxgvnwEWR2V4Z_c6RZLMlACLcBGAsYHQ/w147-h147/Canal%2B4%2Bde%2BSan%2BJuan%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 4 SAN JUAN
-http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Video club" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFYGAuS-WJxvzdD7ke9NWjRFK4tZbo0azgcOwscLg2H81KDozqw-L_iGbuSwMm56f4VrQ&usqp=CAU" group-title="CINE",VIDEO CLUB
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 #EXTINF:-1 tvg-name="Zonda tv" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="SAN JUAN",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
@@ -102,8 +102,8 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BUENOS AIRES",TELE ESTRELLA
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w902769696.m3u8
 
-#EXTINF:-1 tvg-name="Extra! tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/11402602_865879416781724_5144519965880505566_o_6.jpg?itok=ESZJhez3" group-title="BUENOS AIRES",EXTRA! TV
-https://usher.ttvnw.net/api/channel/hls/canalextratv.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=109.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5979241&platform=web&play_session_id=fdf5feca9dc6e015e79892bd65051113&player_backend=mediaplayer&player_version=1.24.0-rc.1.2&playlist_include_framerate=true&reassignments_supported=true&sig=7a2e69293508abdc612a4d7c3f881b9d13ffb3cc&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalextratv%22%2C%22channel_id%22%3A945058896%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222c257d1771109296%22%2C%22expires%22%3A1703868883%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.12.204.106%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-name="Tele Posadas tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/teleposadas.jpg?itok=S7VhxGDT" group-title="MISIONES",TELE POSADAS TV
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teleposadas12/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Lapacho tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad302eb3d14a8a64f833a7f0afd08354.webp" group-title="FORMOSA",LAPACHO TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
@@ -114,8 +114,8 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-name="Eurodance 90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0W-1IeHACwgRfykSJqxezY8u3TDGNTRpQbQfY1KZBDXRXFlsdYOiQjObxjjrYQDL&usqp=CAU" group-title="MUSICA",EURODANCE 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 tvg-name="Telpin tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5858054fefb39eecad5882b79d996f09.webp" group-title="BUENOS AIRES",TELPIN TV
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Neo tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Neo-Tv.png?itok=LwBqylp5" group-title="CINE",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://www.tvarghd.com/img/4jujuy.png" group-title="JUJUY",CANAL 4 JUJUY
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
