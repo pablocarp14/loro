@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Tyc Sports" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-name="Sol tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/sol-tv.jpg?itok=PFqa19vd" group-title="CINE",SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
@@ -21,8 +21,8 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 12 Trelew" tvg-logo="https://1.bp.blogspot.com/-XKGho7EnJnE/YVLYn2b6w7I/AAAAAAAAQ3s/QGQqphv0JVktx4hI8wC77Zo7g_3LWzbtgCLcBGAsYHQ/w125-h125/Canal%2B12%2BTrelew%2Ben%2Bvivo.png" group-title="CHUBUT",CANAL 12 TRELEW
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Deportv" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-name="Full channel" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/full-channel.jpg?itok=Q07_KBMf" group-title="CINE",FULL CHANNEL
+https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal26.jpg?itok=HiLiY2PR" group-title="NOTICIAS",CANAL 26
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
@@ -54,8 +54,8 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w148712670.m3u8
 #EXTINF:-1 tvg-name="Canal 5 telesol" tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 5 TELESOL
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-name="El chavo del ocho" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTILES",EL CHAVO DEL OCHO
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/totovision.jpg?itok=4rymfoB1" group-title="CINE",TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
 #EXTINF:-1 tvg-name="Canal 21 tv Pehuajo" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-21-tv-pehuajo.png" group-title="BUENOS AIRES",CANAL 21 PEHUAJO
 https://vivo.solumedia.com:19360/canal21/canal21.m3u8
@@ -87,8 +87,8 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/D-wIdAot_400x400_0.jpg?itok=WR0dwmXG" group-title="SANTIAGO DEL ESTERO",CANAL 7
 https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
 
-#EXTINF:-1 tvg-name="Ver tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ver-tv.jpg?itok=KGjQoQxB" group-title="BUENOS AIRES",VER TV
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w577125863.m3u8
+#EXTINF:-1 tvg-name="Garabito tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/garabitotv.jpg?itok=c5PQ8jnJ" group-title="CINE",GARABITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Celta tv" tvg-logo="https://1.bp.blogspot.com/-4oM88OtMCME/YVLguX_ZC1I/AAAAAAAAQ48/YDYW9C0thvwiJQJMQXmEZdORcCq47mQuwCLcBGAsYHQ/w119-h116/CELTA%2BTV%2Ben%2Bvivo.png" group-title="BUENOS AIRES",CELTA TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
@@ -99,8 +99,8 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-name="Zonda tv" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="SAN JUAN",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele estrella" tvg-logo="https://teleestrella.tv.bo/wp-content/uploads/2023/10/cropped-LOGO-ESTRELLA-1920-PNG-1-1.png" group-title="BUENOS AIRES",TELE ESTRELLA
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w902769696.m3u8
+#EXTINF:-1 tvg-name="Xpresso musica" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/xpresso-joven.jpg?itok=vBYtD4tZ" group-title="MUSICA",XPRESSO MUSICA
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telecondor" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telecondor.png" group-title="CORDOBA",TELECONDOR
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
@@ -108,20 +108,20 @@ https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3
 #EXTINF:-1 tvg-name="Lapacho tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad302eb3d14a8a64f833a7f0afd08354.webp" group-title="FORMOSA",LAPACHO TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
-#EXTINF:-1 tvg-name="Variedad tv" tvg-logo="http://www.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES",VARIEDAD TV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-name="Vision tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/visio-tv-gt.jpg?itok=mVAYvo9y" group-title="GUATEMALA",VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-name="Eurodance 90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0W-1IeHACwgRfykSJqxezY8u3TDGNTRpQbQfY1KZBDXRXFlsdYOiQjObxjjrYQDL&usqp=CAU" group-title="MUSICA",EURODANCE 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-name="Tv tio pujio" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/tv-tio-pujio.png?itok=QGApHr8I" group-title="CORDOBA",TV TIO PUJIO
+https://fl1002.bozztv.com/ssh101/tvtiopujio/index.m3u8
 
-#EXTINF:-1 tvg-name="Corrientes tv" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/corrientes-tv.png" group-title="CORRIENTES",CORRIENTES TV
-https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
+#EXTINF:-1 tvg-name="Maya tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/maya.jpg?itok=4C4ICIrc" group-title="HONDURASS",MAYA TV
+https://media.streambrothers.com:19360/8230/8230.m3u8
 
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://www.tvarghd.com/img/4jujuy.png" group-title="JUJUY",CANAL 4 JUJUY
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ipersonica tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/ipersonica.png?itok=hjEtN2ey" group-title="BUENOS AIRES",IPERSONICA TV
+https://media.streambrothers.com:19360/8230/8230.m3u8
 
-#EXTINF:-1 tvg-name="San Luis+" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/san-luis-mas.png" group-title="SAN LUIS",SAN LUIS+
-https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/4jujui.jpg?itok=JBfzaFwZ" group-title="JUJUY",CANAL 4
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w788035418_b516000.m3u8
 
 #EXTINF:-1 tvg-name="Canal 4 Teleaire" tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="BUENOS AIRES",CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
@@ -135,14 +135,14 @@ https://tv.streamcasthd.com:3135/live/woxtvlive.m3u8
 #EXTINF:-1 tvg-name="Telejunin" tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="BUENOS AIRES",TELEJUNIN
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
-#EXTINF:-1 tvg-name="Planeta tv music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA",PLANETA TV MUSIC
-https://tls-cl.cdnz.cl/music/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Free tv accion" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/freetv_accion.jpg?itok=XlCiBv3M" group-title="CINE",FREE TV ACCION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?url=freetv.com&amp;genre=Originales%20de%20FreeTV&amp;us_privacy=1YNN&amp;coppa=0&amp;c_producer=topcine&amp;c_lang=es&amp;app_bundle=com.olympusat.FreeTV
 
 #EXTINF:-1 tvg-name="Dreiko tv" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/dreikotv.png?itok=eVegmIxH" group-title="INFANTILES",DREIKO TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-name="Telered tx" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/telered.jpg?itok=t2_kFoZX" group-title="CINE",TELERED TV
-https://video20.klm99.com:3558/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Bayres tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/bayres-tv.jpg?itok=n_yWzfDA" group-title="BUENOS AIRES",BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-name="Play tv" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/weVy6A9B_400x400_1.jpg?itok=-ASeVMtD" group-title="SANTA FE",PLAY TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
@@ -150,8 +150,8 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-name="Sicardi tv" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/canal-5-paralelo-46_1.png?itok=wP4nJSBK" group-title="BUENOS AIRES",SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-name="Spectrum tv" tvg-logo="https://i2.paste.pics/e3cde58abf314e0e6b17b595c357936a.png" group-title="CHILE",SPECTRUM TV
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-name="Egm channel" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/egm-channel.png?itok=GjIz3Rwl" group-title="CHILE",EGM CHANNEL
+https://paneltv.online:1936/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Valle Viejo" tvg-logo="https://radiovalleviejo.com.ar/wp-content/uploads/2020/03/logo2020.png" group-title="CATAMARCA",RADIO VALLE VIEJO
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
