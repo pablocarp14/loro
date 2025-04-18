@@ -6,8 +6,8 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-name="Vclassics tv" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA",VCLASSICS TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w999019425.m3u8
 
-#EXTINF:-1 tvg-name="Vclassics tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="MUSICA",VCLASSICS TROPICAL
-https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1101803278.m3u8
+#EXTINF:-1 tvg-name="Quiero musica" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="MUSICA",QUIERO MUSICA
+http://181.13.173.86:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-name="Quantica tv" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/quantica-tv.png" group-title="BUENOS AIRES",QUANTICA TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
