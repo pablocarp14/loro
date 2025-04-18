@@ -33,29 +33,29 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="NOTICIAS",C5N
 http://181.13.173.86:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-name="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="BUENOS AIRES",TELEFE
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="BUENOS AIRES",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://1.bp.blogspot.com/-wIy8kvu-PC4/YVIXPL-lJxI/AAAAAAAAQ0M/HqG1Y8eIrx47mZqhimDyx8oCu0YZmKKgACLcBGAsYHQ/w152-h152/El%2BTrece%2Ben%2Bvivo.jpg" group-title="BUENOS AIRES",CANAL 13
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-name="America tv" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="BUENOS AIRES",AMERICA TV
-http://200.60.124.19:29000/play/a008/index.m3u8
+https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-name="ChileVisual retro" tvg-logo="https://lrtv.jaranetwork.com/sites/default/files/styles/poster/public/logos/chilevisual.png?itok=b4e3eFmn" group-title="CINE",CHILEVISUAL RETRO
-https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+#EXTINF:-1 tvg-name="Tyc sports" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="DEPORTES",TYC SPORTS
+http://181.13.173.86:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-name="La Nacion" tvg-logo="https://latinartv.com/sites/default/files/styles/estacion_132/public/logos/ln.png?itok=_H4G6RPB" group-title="NOTICIAS",LA NACION 
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1 tvg-name="La Nacion" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="NOTICIAS",LA NACION 
+http://181.13.173.86:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-name="+Cine" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/%2BCine.png?itok=SZFveXdQ" group-title="CINE",+CINE
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w148712670.m3u8
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="CINE",CINEMAX
+http://45.230.38.117:8000/play/a080
 
 #EXTINF:-1 tvg-name="Canal 5 telesol" tvg-logo="https://1.bp.blogspot.com/-KjHuPzlH1U8/YVMeHWb-LrI/AAAAAAAAQ98/refShmtynkwf6g7PU162nkNqo29OaAxUgCLcBGAsYHQ/w126-h126/Canal%2B5%2BTelesol%2Ben%2Bvivo.jpg" group-title="SAN JUAN",CANAL 5 TELESOL
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Totovision" tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/totovision.jpg?itok=4rymfoB1" group-title="CINE",TOTOVISION
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-name="Espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="DEPORTES",ESPN
+http://181.13.173.86:8000/play/a0af/index.m3u8
 
 #EXTINF:-1 tvg-name="Canal 21 tv Pehuajo" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-21-tv-pehuajo.png" group-title="BUENOS AIRES",CANAL 21 PEHUAJO
 https://vivo.solumedia.com:19360/canal21/canal21.m3u8
